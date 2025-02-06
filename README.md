@@ -28,4 +28,8 @@ Welcome to Bharti's Cafe Website! This is a responsive and user-friendly website
    ```
 3. Open `index.html` in your browser.
 
+## 🤝 Contributing
+Pull requests are welcome! If you find any issues, feel free to submit an issue or a PR.
 
+### 📧 Contact
+For any inquiries, reach out at: **bhartiscafe@example.com**
